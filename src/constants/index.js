@@ -94,7 +94,7 @@ export const footerLinks = [
     links: [
       {
         name: "How it Works",
-        link: "https://music.youtube.com/watch?v=x1t_LEP3O8o&si=9pbvjj0EH1smV-bI",
+        link: "https://youtube.com/shorts/Ar-1rSkw9bk?si=FGqr_EHCT8U6rq7l",
       },
       {
         name: "Terms & Services",
