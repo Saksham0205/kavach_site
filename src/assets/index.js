@@ -8,10 +8,11 @@ import arrowUp from "./arrow-up.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-
+import main from "./main.png";
 export {
   logo,
   send,
+  main,
   shield,
   star,
   menu,
